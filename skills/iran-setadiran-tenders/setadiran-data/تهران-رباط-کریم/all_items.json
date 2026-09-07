@@ -1,0 +1,3903 @@
+[
+ {
+  "number": 1105050139000008,
+  "title": "مزایده فروش خشی از پساب تصفیه خانه فاضلاب رباط کریم را با کاربری معین و حجم مشخص برای دوره زمانی محدود و معین ",
+  "boardCode": 3,
+  "basePrice": 111111111111111,
+  "orgName": "شرکت آب و فاضلاب جنوب غربی استان تهران ",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/07/04 - 12:00",
+  "jalaliLastEditDate": "1405/06/15 - 12:20",
+  "jalaliDocumentDeadlineDate": "1405/06/21 - 19:00",
+  "tableId": 501448,
+  "tagCode": 31,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1324429",
+  "orgId": 7872,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 0
+ },
+ {
+  "number": 1105091953000015,
+  "title": "نیاز خدمات-واگذاری نگهداری و راهبری تصفیه خانه فاضلاب بیمارستان حضرت فاطمه الزهرا (س) رباط کریم",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "بیمارستان فاطمه الزهرا س رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 14:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5336828,
+  "tagCode": 1432,
+  "needType": "1432",
+  "reqId": "7425292",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 14943,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 1
+ },
+ {
+  "number": 1105050139000070,
+  "title": "نیاز کالا-خرید کنتور مکانیکی 4و6 اینچ",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "شرکت آب و فاضلاب جنوب غربی استان تهران ",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 09:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5334955,
+  "tagCode": 1431,
+  "needType": "1431",
+  "reqId": "7422496",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 7872,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 2
+ },
+ {
+  "number": 1105091319000092,
+  "title": "نیاز کالا-کولر گازی جی‌پلاس ۲۴۰۰۰ اینورتر T3، سرمایش و گرمایش، کمپرسور روتاری، مناسب کارکرد ۲۴ ساعته، رده انرژی A، به همراه ۵ متر لوله مسی؛ پیوست رویت گردد.",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "اداره ذخیره سازی غله و خدمات بازرگانی شهر تهران",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 08:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5335076,
+  "tagCode": 1431,
+  "needType": "1431",
+  "reqId": "7422658",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5539,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 3
+ },
+ {
+  "number": 3105108120000116,
+  "title": "حراج 350سهم مشاع از 50.000 سهم پلاک ثبتی 754فرعی از112اصلی با کاربری زراعی واقع در رباط کریم حصارمهتر",
+  "boardCode": 3,
+  "basePrice": 30000000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/29 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 501487,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/29 - 08:00",
+  "partyNumber": "1322699",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4224687,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 4
+ },
+ {
+  "number": 3105108120000117,
+  "title": "حراج پنج ورق ام دی اف خام 25 میلیمتری",
+  "boardCode": 3,
+  "basePrice": 530000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/30 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 501917,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/30 - 08:00",
+  "partyNumber": "1323313",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4228371,
+  "categoryId": 170,
+  "categoryName": "مواد معدنی، گیاهی و جانوری غیرخوراکی و منسوجات",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 5
+ },
+ {
+  "number": 1105097075000004,
+  "title": "نیاز خدمات- اجرای پروژه های انتقال نیرو ، برق رسانی (بازسازی و بهینه سازی شبکه های 20KV به روش خط گرم) بصورت کلید دردست در محدوده منطقه برق پرند ",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "منطقه برق پرند استان تهران",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/17 - 14:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5334313,
+  "tagCode": 1432,
+  "needType": "1432",
+  "reqId": "7421499",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 20578,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 6
+ },
+ {
+  "number": 1105001077000024,
+  "title": "نیاز خدمات-خرید تجهیزات و سیستم کامپیوتری طبق فایل پیوست",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 10:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5333520,
+  "tagCode": 1432,
+  "needType": "1432",
+  "reqId": "7420309",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 7
+ },
+ {
+  "number": 1105001077000023,
+  "title": "نیاز کالا-خرید 5 دستگاه پرینتر و 6دستگاه اسکنر و 1دستگاه فتوکپی طبق جدول پیوست",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 10:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5333274,
+  "tagCode": 1431,
+  "needType": "1431",
+  "reqId": "7419946",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 8
+ },
+ {
+  "number": 5105030345000016,
+  "title": "اجاره -( به مدت 12 ماه 0 روز)",
+  "boardCode": 3,
+  "basePrice": 0,
+  "orgName": "دانشگاه علوم پزشکی و خدمات بهداشتی درمانی ایران",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/28 - 13:00",
+  "jalaliLastEditDate": "1405/06/14 - 08:00",
+  "jalaliDocumentDeadlineDate": "1405/06/16 - 13:00",
+  "tableId": 500818,
+  "tagCode": 33,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1321528",
+  "orgId": 8912,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 9
+ },
+ {
+  "number": 1105050139000068,
+  "title": "نیاز کالا-خرید لوازم برقی",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "شرکت آب و فاضلاب جنوب غربی استان تهران ",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/17 - 14:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5330704,
+  "tagCode": 1431,
+  "needType": "1431",
+  "reqId": "7416065",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 7872,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 10
+ },
+ {
+  "number": 1105050139000064,
+  "title": "نیاز کالا-خرید ابزار آلات و موتور برق",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "شرکت آب و فاضلاب جنوب غربی استان تهران ",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 08:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5329465,
+  "tagCode": 1431,
+  "needType": "1431",
+  "reqId": "7414328",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 7872,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 11
+ },
+ {
+  "number": 1105050139000066,
+  "title": "نیاز کالا-خرید دوزینگ پمپ و مخزن",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "شرکت آب و فاضلاب جنوب غربی استان تهران ",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/17 - 14:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5330668,
+  "tagCode": 1431,
+  "needType": "1431",
+  "reqId": "7416014",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 7872,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 12
+ },
+ {
+  "number": 3105108120000115,
+  "title": "حراج یک قطعه زمین به مساحت تقریبی40.000 متر مربع فاقد سند با کاربری زراعی واقع در رباط کریم شترخوار",
+  "boardCode": 3,
+  "basePrice": 560000000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/25 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 500966,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/25 - 08:00",
+  "partyNumber": "1321739",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4219306,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 13
+ },
+ {
+  "number": 1105091319000091,
+  "title": "نیاز کالا-خرید ۲۴ حلقه لاستیک خودرو برند بارز به‌همراه ۱۰ عدد تیوپ و ۱۰ عدد نوار رینگ؛ مشخصات و جزئیات در پیوست بارگذاری شده است.",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "اداره ذخیره سازی غله و خدمات بازرگانی شهر تهران",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/16 - 09:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5328450,
+  "tagCode": 1431,
+  "needType": "1431",
+  "reqId": "7412709",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5539,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 14
+ },
+ {
+  "number": 3105108120000114,
+  "title": "حراج شش دانگ یک واحد آپارتمان واقع در فاز6 پروژه کوزو بلوکB64طبقه4 جنوب شرقی واحد19",
+  "boardCode": 3,
+  "basePrice": 20000000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/24 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 500105,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/24 - 08:00",
+  "partyNumber": "1320395",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4211154,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 15
+ },
+ {
+  "number": 2005001077000028,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای اجرای آسفالت معابر اصلی و فرعی شمال فاز های 4 الی 6شهر جدید پرندشامل ( تراشیدن ،تخریب و اجرای آسفالت ترمیمی",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/07/01 - 13:30",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/16 - 19:00",
+  "tableId": 663459,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 16
+ },
+ {
+  "number": 2005001077000029,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای اجرای آسفالت معابر اصلی و فرعی جنوب فاز های 4 الی 6شهر جدید پرندشامل ( تراشیدن ،تخریب و اجرای آسفالت ترمیمی",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/07/01 - 13:30",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/16 - 19:00",
+  "tableId": 663508,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 17
+ },
+ {
+  "number": 5105091038000030,
+  "title": "اجاره اموزشی( به مدت 8 ماه 0 روز)",
+  "boardCode": 3,
+  "basePrice": 640000000,
+  "orgName": "مدیریت اموزش و پرورش رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/07/01 - 19:00",
+  "jalaliLastEditDate": "1405/06/10 - 13:00",
+  "jalaliDocumentDeadlineDate": "1405/06/21 - 19:00",
+  "tableId": 500190,
+  "tagCode": 33,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1320571",
+  "orgId": 12758,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 18
+ },
+ {
+  "number": 5105091038000029,
+  "title": "اجاره اموزشی( به مدت 8 ماه 0 روز)",
+  "boardCode": 3,
+  "basePrice": 640000000,
+  "orgName": "مدیریت اموزش و پرورش رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/07/01 - 19:00",
+  "jalaliLastEditDate": "1405/06/10 - 13:00",
+  "jalaliDocumentDeadlineDate": "1405/06/21 - 19:00",
+  "tableId": 500187,
+  "tagCode": 33,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1320563",
+  "orgId": 12758,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 19
+ },
+ {
+  "number": 5105091038000031,
+  "title": "اجاره اموزشی( به مدت 8 ماه 0 روز)",
+  "boardCode": 3,
+  "basePrice": 640000000,
+  "orgName": "مدیریت اموزش و پرورش رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/07/01 - 19:00",
+  "jalaliLastEditDate": "1405/06/10 - 13:00",
+  "jalaliDocumentDeadlineDate": "1405/06/21 - 19:00",
+  "tableId": 500195,
+  "tagCode": 33,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1320581",
+  "orgId": 12758,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 20
+ },
+ {
+  "number": 5105091038000028,
+  "title": "اجاره اموزشی( به مدت 8 ماه 0 روز)",
+  "boardCode": 3,
+  "basePrice": 640000000,
+  "orgName": "مدیریت اموزش و پرورش رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/07/01 - 19:00",
+  "jalaliLastEditDate": "1405/06/10 - 12:20",
+  "jalaliDocumentDeadlineDate": "1405/06/21 - 19:00",
+  "tableId": 499979,
+  "tagCode": 33,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1320527",
+  "orgId": 12758,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 21
+ },
+ {
+  "number": 3105108120000113,
+  "title": "حراج یک ساختمان مسکونی سه طبقه با پلاک ثبتی2621فرعی از160اصلی واقع در رباط کریم خ موسی بن جعفر قیام10پ90",
+  "boardCode": 3,
+  "basePrice": 75000000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/22 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 498947,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/22 - 08:00",
+  "partyNumber": "1318495",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4201711,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 22
+ },
+ {
+  "number": 2005050139000050,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای نگهداری و بهره برداری از شبکه جمع آوری فاضلاب در پرند و رباط کریم",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت آب و فاضلاب جنوب غربی استان تهران ",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/30 - 12:00",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/14 - 19:00",
+  "tableId": 662900,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 7872,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 23
+ },
+ {
+  "number": 3105108120000110,
+  "title": "حراج یک عدد خط دائمی همراه امول به شماره 09141141037",
+  "boardCode": 3,
+  "basePrice": 955000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/23 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 498403,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/23 - 08:00",
+  "partyNumber": "1317531",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4195893,
+  "categoryId": 190,
+  "categoryName": "تجهیزات مخابراتی، کامپیوتر، موبایل، ملزومات جانبی و شبکه",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 24
+ },
+ {
+  "number": 3105108120000111,
+  "title": "حراج یک باب مغازه تجاری فاقد سند به مساحت 18مترمربع واقع در رباط کریم آلاردپرندک بلوار اصلی خ نسیم",
+  "boardCode": 3,
+  "basePrice": 4500000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/28 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 498481,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/28 - 08:00",
+  "partyNumber": "1317665",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4196746,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 25
+ },
+ {
+  "number": 3105108120000112,
+  "title": "حراج یک قطعه زمین به مساحت209مترمربع باپلاک ثبتی8707فرعی از161اصلی واقع در رباط کریم بازارک",
+  "boardCode": 3,
+  "basePrice": 90000000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/29 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 498586,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/29 - 08:00",
+  "partyNumber": "1317806",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4197735,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 26
+ },
+ {
+  "number": 2005098283000017,
+  "title": "مناقصه عمومی یک مرحله ای اجرای پروژه آسفالت و روکش آسفالت سطح شهر پرند ",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شهرداری پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/23 - 12:00",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/12 - 12:00",
+  "tableId": 662518,
+  "tagCode": 4121,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 19810,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 27
+ },
+ {
+  "number": 3105108120000108,
+  "title": "حراج شش دانگ عرصه و اعیان یک قطعه زمین با پلاک ثبتی22249فرعی از165 اصلی قطعه 39تفکیکی واقع در پرند",
+  "boardCode": 3,
+  "basePrice": 202000000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/24 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 497683,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/24 - 08:00",
+  "partyNumber": "1316443",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4189122,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 28
+ },
+ {
+  "number": 3105108120000109,
+  "title": "حراج شش دانگ یک واحد آپارتمان مسکونی مسکن مهرواقع در پرندفاز6 پروژه اساس گستر بلوک417 طبقه اول واحد دوم",
+  "boardCode": 3,
+  "basePrice": 17500000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/24 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 497742,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/24 - 08:00",
+  "partyNumber": "1316523",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4189655,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 29
+ },
+ {
+  "number": 2005050139000047,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای تهیه لوازم واجرای 1000فقره انشعابات فاضلاب در شهر رباط کریم ",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت آب و فاضلاب جنوب غربی استان تهران ",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/25 - 12:00",
+  "jalaliLastEditDate": "1405/06/11 - 12:52",
+  "jalaliDocumentDeadlineDate": "1405/06/10 - 19:00",
+  "tableId": 661922,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 7872,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 30
+ },
+ {
+  "number": 2005001077000026,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای احداث یک باب مدرسه 15کلاسه واقع در شمال فاز 5 شهر جدید پرند(اراضی موسوم به 88هکتاری)",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/28 - 13:30",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/11 - 19:00",
+  "tableId": 661969,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 31
+ },
+ {
+  "number": 2005001077000027,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای احداث یک باب مدرسه 12کلاسه واقع در شمال فاز 6 شهر جدید پرند(اراضی موسوم به 130هکتاری) ",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/28 - 13:30",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/11 - 19:00",
+  "tableId": 661976,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 32
+ },
+ {
+  "number": 2005001077000025,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای تکمیل عملیات اجرایی دو باب مدرسه 21 کلاسه امام حسن (ع) و ثارالله واقع درجنوب فاز 3 شهر جدید پرند",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/28 - 13:30",
+  "jalaliLastEditDate": "1405/06/11 - 12:46",
+  "jalaliDocumentDeadlineDate": "1405/06/11 - 19:00",
+  "tableId": 661960,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 33
+ },
+ {
+  "number": 1105050139000060,
+  "title": "نیاز کالا-خرید آهن آلات",
+  "boardCode": 1,
+  "basePrice": null,
+  "orgName": "شرکت آب و فاضلاب جنوب غربی استان تهران ",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "خرید",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/17 - 14:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": null,
+  "tableId": 5313072,
+  "tagCode": 1431,
+  "needType": "1431",
+  "reqId": "7389684",
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 7872,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 34
+ },
+ {
+  "number": 3105113587000011,
+  "title": "حراج یخچال دو درب فروشگاهی ",
+  "boardCode": 3,
+  "basePrice": 350000000,
+  "orgName": "شعبه دو اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/17 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 494354,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/17 - 08:00",
+  "partyNumber": "1307871",
+  "orgId": 50387,
+  "aucState": 1116,
+  "cartId": 4180495,
+  "categoryId": 195,
+  "categoryName": "ماشین آلات و تجهیزات و ملزومات صنایع خدماتی",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 35
+ },
+ {
+  "number": 3105108120000107,
+  "title": "حراج دو قطعه زمین فاقد سند به شماره 284و286 با مساحت جمعا 205 متر مربع واقع در رباط کریم شترخوار",
+  "boardCode": 3,
+  "basePrice": 3690000000,
+  "orgName": "شعبه یک اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/21 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 497085,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/21 - 08:00",
+  "partyNumber": "1315387",
+  "orgId": 44208,
+  "aucState": 1116,
+  "cartId": 4183682,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 36
+ },
+ {
+  "number": 2005001077000024,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای تامین خودروهای در اختیار شرکت عمران پرند",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/28 - 13:30",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/10 - 19:00",
+  "tableId": 661617,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 37
+ },
+ {
+  "number": 2105001051000124,
+  "title": "مزایده زمين واقع در شهرستان رباط کریم.کیلومتر 20 جاده گرمسار.شهرک صنعتی عباس آباد",
+  "boardCode": 3,
+  "basePrice": 1201194780000,
+  "orgName": "شرکت شهرک های صنعتی استان تهران",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/21 - 14:00",
+  "jalaliLastEditDate": "1405/06/01 - 15:00",
+  "jalaliDocumentDeadlineDate": "1405/06/10 - 14:00",
+  "tableId": 494962,
+  "tagCode": 32,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1308896",
+  "orgId": 5617,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 38
+ },
+ {
+  "number": 3105113587000010,
+  "title": "حراج  یک عدد خط همراه اول به شماره 09126457596",
+  "boardCode": 3,
+  "basePrice": 650000000,
+  "orgName": "شعبه دو اجرای احکام مدنی دادگستری رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/16 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 494116,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/16 - 08:00",
+  "partyNumber": "1307565",
+  "orgId": 50387,
+  "aucState": 1116,
+  "cartId": 4159107,
+  "categoryId": 190,
+  "categoryName": "تجهیزات مخابراتی، کامپیوتر، موبایل، ملزومات جانبی و شبکه",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 39
+ },
+ {
+  "number": 2105001024000096,
+  "title": "مزایده زمين با کاربری تجاري مسکوني انبار تجاري واقع در نصیر شهر-خیابان امام خمینی-روبروی خیابان مدنی جنب شیرینی فروشی میخک",
+  "boardCode": 3,
+  "basePrice": 236600000000,
+  "orgName": "بانک کشاورزی",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/16 - 14:00",
+  "jalaliLastEditDate": "1405/05/29 - 09:00",
+  "jalaliDocumentDeadlineDate": "1405/06/01 - 12:00",
+  "tableId": 488970,
+  "tagCode": 32,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1305889",
+  "orgId": 5345,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 40
+ },
+ {
+  "number": 3105117868000008,
+  "title": "حراج آپارتمان در شهرک آفتاب ، خ صیاد شیرازی ، خ علی محمدی ، ک ارکیده 4 ، بلوک B32، ط 8 ، و 35 ",
+  "boardCode": 3,
+  "basePrice": 24960000000,
+  "orgName": "شعبه سوم اجرای احکام مدنی دادگستری شهرستان رباط کریم مستقر در پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/23 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 492803,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/23 - 08:00",
+  "partyNumber": "1305035",
+  "orgId": 55729,
+  "aucState": 1116,
+  "cartId": 4145539,
+  "categoryId": 224,
+  "categoryName": "زمین، ساختمان‌ و معابر",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 41
+ },
+ {
+  "number": 3105117868000009,
+  "title": "حراج سیم کارت همراه اول به شماره 09120371452",
+  "boardCode": 3,
+  "basePrice": 810000000,
+  "orgName": "شعبه سوم اجرای احکام مدنی دادگستری شهرستان رباط کریم مستقر در پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/21 - 12:00",
+  "jalaliLastEditDate": null,
+  "jalaliDocumentDeadlineDate": " - ",
+  "tableId": 493409,
+  "tagCode": 341,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": "1405/06/21 - 08:00",
+  "partyNumber": "1306103",
+  "orgId": 55729,
+  "aucState": 1116,
+  "cartId": 4151969,
+  "categoryId": 190,
+  "categoryName": "تجهیزات مخابراتی، کامپیوتر، موبایل، ملزومات جانبی و شبکه",
+  "locId": null,
+  "ticketId": "",
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 42
+ },
+ {
+  "number": 2005001077000021,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای نظافت عمومي، جمع‌آوري زباله روزانه ، رفت و روب معابر شهري واقع در فاز 4 شهر جدید پرند",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 13:30",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/02 - 19:00",
+  "tableId": 660161,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 43
+ },
+ {
+  "number": 2005001077000023,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای نظافت عمومي، جمع‌آوري زباله روزانه ، رفت و روب معابر شهري واقع در فاز 6 شهر جدید پرند",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 13:30",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/02 - 19:00",
+  "tableId": 660168,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 44
+ },
+ {
+  "number": 2005001077000022,
+  "title": "مناقصه عمومی همزمان با ارزیابی (یکپارچه) یک مرحله ای نظافت عمومي، جمع‌آوري زباله روزانه ، رفت و روب معابر شهري واقع در فاز 5 شهر جدید پرند",
+  "boardCode": 2,
+  "basePrice": null,
+  "orgName": "شرکت سهامی عمران شهر جدید پرند",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مناقصه",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/18 - 13:30",
+  "jalaliLastEditDate": "-",
+  "jalaliDocumentDeadlineDate": "1405/06/02 - 19:00",
+  "tableId": 660165,
+  "tagCode": 4128,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": null,
+  "orgId": 5558,
+  "aucState": null,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 45
+ },
+ {
+  "number": 1105091038000002,
+  "title": "مزایده 75راس بره",
+  "boardCode": 3,
+  "basePrice": 26540000000,
+  "orgName": "مدیریت اموزش و پرورش رباط کریم",
+  "score": 47,
+  "cityName": "رباط کریم",
+  "insertDate": null,
+  "boardName": "مزایده",
+  "provinceName": "تهران",
+  "jalaliSendDeadlineDate": "1405/06/16 - 19:00",
+  "jalaliLastEditDate": "1405/05/24 - 11:00",
+  "jalaliDocumentDeadlineDate": "1405/06/04 - 19:00",
+  "tableId": 490791,
+  "tagCode": 31,
+  "needType": null,
+  "reqId": null,
+  "jalaliFromProposalDate": null,
+  "partyNumber": "1301575",
+  "orgId": 12758,
+  "aucState": 1116,
+  "cartId": 0,
+  "categoryId": null,
+  "categoryName": null,
+  "locId": null,
+  "ticketId": null,
+  "aggregations": {
+   "by_boardCode": {
+    "buckets": [
+     {
+      "doc_count": 24,
+      "key": "3"
+     },
+     {
+      "doc_count": 12,
+      "key": "2"
+     },
+     {
+      "doc_count": 11,
+      "key": "1"
+     }
+    ]
+   },
+   "by_tagCode": {
+    "buckets": [
+     {
+      "doc_count": 15,
+      "key": "341"
+     },
+     {
+      "doc_count": 11,
+      "key": "4128"
+     },
+     {
+      "doc_count": 8,
+      "key": "1431"
+     },
+     {
+      "doc_count": 5,
+      "key": "33"
+     },
+     {
+      "doc_count": 3,
+      "key": "1432"
+     },
+     {
+      "doc_count": 2,
+      "key": "31"
+     },
+     {
+      "doc_count": 2,
+      "key": "32"
+     },
+     {
+      "doc_count": 1,
+      "key": "4121"
+     }
+    ]
+   }
+  },
+  "orderIdx": 46
+ }
+]
