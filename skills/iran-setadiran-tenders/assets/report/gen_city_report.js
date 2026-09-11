@@ -63,8 +63,11 @@ const tallyBy = key => {
   const e = Object.entries(t).sort((a, b) => b[1] - a[1]);
   return e.length ? e[0][0] : '—';
 };
-const CITY = tallyBy('city');
+const CITY = process.env.CITY_LABEL || tallyBy('city');
 const PROV = tallyBy('province');
+// وقتی شهر در سامانه کد مستقل ندارد و زیرمجموعه شهر مادر منتشر می‌شود (مثل محمدشهر/کمال‌شهر ← کرج)،
+// با CITY_LABEL نام نمایشی ست می‌شود و توضیحش در کادر روش‌شناسی (methodNote) درج می‌گردد.
+const CITY_IS_PROXY = !!(process.env.CITY_LABEL && process.env.CITY_LABEL !== tallyBy('city'));
 
 // تاریخ و ساعت لحظه‌ای (شمسی + میلادی)
 function todayFa() {
