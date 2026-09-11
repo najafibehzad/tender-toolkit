@@ -1,0 +1,2 @@
+(load "C:/Users/behzad/.zcode/workspace/default/dxf-tools/dump.lsp")
+(c:DUMP)
