@@ -1,7 +1,7 @@
 ---
 name: iran-setadiran-tenders
 description: >-
-  استخراج آگهی‌های مناقصه، استعلام و مزایده از سامانه تدارکات الکترونیکی دولت ایران (ستاد ایران / setadiran) برای یک استان و شهر مشخص، و ساخت گزارش PDF فارسی RTL با مشخصات کامل اگهی. Use whenever the user mentions مناقصات، استعلامات، مزایده، آگهی‌های پیمانکاری، تدارکات دولتی، ستاد ایران، setadiran، etend، eproc، تابلوی اعلانات مرکزی، or asks for government tender/procurement announcements by province/city (استان/شهر) — even if they only paste a setadiran link and say «برام لیست کن».
+  استخراج آگهی‌های مناقصه، استعلام و مزایده از سامانه تدارکات الکترونیکی دولت ایران (ستاد ایران / setadiran) برای یک استان و شهر مشخص، و ساخت گزارش PDF فارسی RTL با مشخصات کامل اگهی شامل رشته و رتبهٔ مورد نیاز پیمانکار. Use whenever the user mentions مناقصات، استعلامات، مزایده، آگهی‌های پیمانکاری، تدارکات دولتی، ستاد ایران، setadiran، etend، eproc، تابلوی اعلانات مرکزی, or asks for government tender/procurement announcements by province/city (استان/شهر) — even if they only paste a setadiran link and say «برام لیست کن».
 ---
 
 # آگهی‌های تدارکات دولتی ایران (setadiran)
@@ -28,6 +28,10 @@ description: >-
 3. **مرتب‌سازی «جدیدترین در بالا»**: ترتیب بازگشتی API با `sort=insertDate,desc` (= `orderIdx`) ملاک است و شماره فراخوان نزولی به‌عنوان لنگر دوم. تاریخ انتشار دقیق را در history نگه‌دار؛ اگر کاربر اسکرین‌شات با زمان‌های دقیق داد، همان را در history.json به‌عنوان firstSeen ثبت کن.
 4. **لینک‌های فعال در HTML و PDF**: شماره هر اگهی کلیک‌پذیر باشد — مناقصه → `etend/centralBoardTenderDetails-execute.action?tenderId={tableId}`، خرید → `eproc/purchaseNeedViewBoardIntegration.do?method=showNeedDetailInfo&requestId={reqId}`، مزایده → صفحه عمومی ندارد؛ لینک به `etend/indexPage.action` (پس از لاگین، جستجو با شماره) + توضیح در کادر روش‌شناسی. در جلد نوار «پرش سریع» با لنگرهای `#sec-b1..b4` روی h2 بخش‌ها. استایل: `.nlink { color:inherit; text-decoration:none }` — ارتفاع کارت‌ها تغییر نمی‌کند، heights قابل استفاده مجدد است.
 5. **فقط مناقصات + خدمات پیمانکاری (به درخواست کاربر)**: مزایده‌ها و استعلام‌های خرید کالا از گزارش حذف شده‌اند و در fetch_details هم جزئیات کالا (needType=1431) گرفته نمی‌شود. گزارش دو بخش دارد؛ کادر روش‌شناسی حذف این بخش‌ها را توضیح می‌دهد. اگر کاربر بعداً مزایده/کالا خواست، این قاعده را برگردان.
+6. **رشته و رتبهٔ مورد نیاز در کارت مناقصه (۲۰۲۶-۰۹-۱۱، به درخواست کاربر)**:
+   - «رشته مورد نیاز» = فهرست «حوزه‌های فعالیت» خود اگهی که در صفحه HTML با گرید AJAX بارگذاری می‌شود — پس از JSON عمومی `etend/centralBoardTenderDetails-loadTenderDomainsList.action?tenderId={tableId}` بگیر (فیلد `parentName` مثل «رشته ابنیه»؛ پیشوند «رشته » برای نمایش حذف می‌شود؛ چندتایی = همه با «، «). در کارت به‌صورت چیپ آبی + ردیف kv نمایش داده می‌شود.
+   - «رتبه/پایه مورد نیاز» فیلد جداگانه‌ای در سامانه ندارد (`levelNumber` همیشه null)؛ فقط وقتی درج می‌شود که در متن اگهی (عنوان/شرح/توضیح تضمین) ذکر شده باشد — استخراج با regex «(?:حداقل )?رتبه (بندی )?N( تا M)?» در `fetch_details.js` (تابع `extractGradeFromText`). نبودش یعنی اگهی رتبهٔ صریح ندارد؛ همین در کادر روش‌شناسی توضیح داده شده.
+   - `heights.json` دارای مهر `__layout` است (gen تگ `<meta name="layout-v">` می‌نویسد، measure ذخیره می‌کند)؛ با هر تغییر چیدمان کارت‌ها `LAYOUT` را در gen بالا ببر تا ارتفاع‌های قدیمی بی‌اعتبار شوند و measure خودکار دوباره اجرا شود.
 
 ## گردش کار
 
@@ -90,7 +94,7 @@ GET https://gw.setadiran.ir/api/centralboard/cards/?searchTypeCode=0&selectedCit
 
 ### ۳) جزئیات کامل هر اگهی
 
-- برد **مناقصه**: صفحه `centralBoardTenderDetails-execute.action?tenderId={tableId}` را بگیر. مقادیر در innerText خالی دیده می‌شوند چون داخل input هستند — **HTML خام را پارس کن**: ورودی‌های `name="tenderDto.*"` شامل شماره، عنوان، طبقه‌بندی (`subjectAllowedName`)، دستگاه، مسئول ثبت (`tenderRegistrarEmployeeFullName`)، کد پستی، برآورد مالی (`financialEstimatePrice`)، هزینه اسناد، حساب واریز (`tenderDocumentsPriceAccount.id`)، تضمین (`guarantyPrice`)، مهلت‌ها (`documentsDeadline*`، `proposalDeadline*`، `opening*`، `offersValid*`)، توضیحات، آدرس، استان/شهر عملیات (selectهای selected)، و جدول «حوزه های فعالیت».
+- برد **مناقصه**: صفحه `centralBoardTenderDetails-execute.action?tenderId={tableId}` را بگیر. مقادیر در innerText خالی دیده می‌شوند چون داخل input هستند — **HTML خام را پارس کن**: ورودی‌های `name="tenderDto.*"` شامل شماره، عنوان، طبقه‌بندی (`subjectAllowedName`)، دستگاه، مسئول ثبت (`tenderRegistrarEmployeeFullName`)، کد پستی، برآورد مالی (`financialEstimatePrice`)، هزینه اسناد، حساب واریز (`tenderDocumentsPriceAccount.id`)، تضمین (`guarantyPrice`)، مهلت‌ها (`documentsDeadline*`، `proposalDeadline*`، `opening*`، `offersValid*`)، توضیحات، آدرس، استان/شهر عملیات (selectهای selected). جدول «حوزه های فعالیت» در HTML نیست و با AJAX از `loadTenderDomainsList` می‌آید (بالا را ببین).
 - برد **خرید** (کالا/خدمات): صفحه eproc با `requestId={reqId}`. سربرگ‌ها بدون session خالی‌اند اما **شرح کلی نیاز، جدول اقلام (کد/نام/واحد/تعداد/تاریخ نیاز) و توضیحات خریدار رندر می‌شوند** — از متن HTML جدا شده با label «شرح کلي نياز» و ردیف‌های بعد از «رديف» پارس کن. نوع را از وجود «اطلاعات خدمات مورد نياز» (خدمت) یا «اطلاعات کالاهاي مورد نياز» (کالا) تشخیص بده.
 - این مرحله را `scripts/fetch_details.js` انجام می‌دهد: `node scripts/fetch_details.js` → خروجی `setadiran-data/<پوشه-شهر>/final_data.json`.
 
