@@ -1,18 +1,20 @@
 ---
 name: tender-toolkit
-description: بسته کامل ابزارهای پیمانکاری - شامل سه skill اصلی (تدارکات، آنالیز قیمت، گزارش مصالح) + مهارت‌های کمکی (فهرست‌بها، PDF فارسی). Use when setting up a new contractor workspace, onboarding to tender analysis, or needing all three skills in one project.
+description: بسته کامل ابزارهای پیمانکاری - تدارکات، آنالیز قیمت (وب‌اپ + دستی)، گزارش مصالح، صورت وضعیت، تعدیل، مالیات + مهارت‌های کمکی (فهرست‌بها، PDF فارسی، نقشه اتوکد). Use when setting up a new contractor workspace, onboarding to tender analysis, or needing all skills in one project.
 ---
 
 # بسته ابزارهای تدارکات و آنالیز
 
-## سه skill اصلی
-1. **iran-setadiran-tenders** - استخراج آگهی ستادیران
-2. **iran-analiz-fehrest-maghadir** - آنالیز قیمت از برآورد
-3. **iran-masaleh-takeoff** - گزارش مصالح مصرفی
+## مهارت‌های اصلی
+1. **iran-analiz-webapp** ⭐ — وب‌اپ محلی «آنالیز بها و گزارش مصالح مصرفی» (پورت ۳۷۲۶): قالب اکسل برآورد → ۱۰ سند PDF آنالیز تدکار + گزارش مصالح. **مسیر پیشنهادی و خودکار.**
+2. **iran-analiz-fehrest-maghadir** — آنالیز قیمت از روی برآورد (مسیر دستی، بدون وب‌اپ)
+3. **iran-masaleh-takeoff** — گزارش مصالح مصرفی (فرمول‌ها و ساختار گزارش)
+4. **iran-setadiran-tenders** — استخراج آگهی‌های مناقصه/استعلام/مزایده از ستادیران
 
 ## مهارت‌های کمکی
-- **fehrest-baha-1404** - فهرست‌بها ۱۴۰۴ + ضرایب
-- **fa-pdf** - ساخت PDF فارسی
+- **fehrest-baha-1404** — فهرست‌بها ۱۴۰۴ + پیوست‌ها + ضرایب
+- **fa-pdf** — ساخت PDF فارسی RTL
+- **baha-abnieh-pwa** — PWA جستجوی آفلاین از فهرست‌بها
 
 ## نصب
-برای نصب در project، فایل‌های `skills/*` را در `.kilo/skills/` کپی کن.
+برای نصب در project، پوشه‌های داخل پوشهٔ skills را در پوشهٔ مهارت‌های پروژه کپی کن.
