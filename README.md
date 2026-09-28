@@ -6,14 +6,14 @@
 - **`skills/iran-setadiran-tenders/`** — استخراج آگهی‌های مناقصه، استعلام و مزایده از سامانه ستادیران
 - **`skills/fardis-tender-automation/`** — سیستم خودکار گزارش روزانه آگهی‌های تدارکات شهر فردیس (تسک زمان‌بند ویندوز + GitHub Pages + ارسال PDF به بله/تلگرام/جیمیل)
 
-## ۲. آنالیز قیمت (Price Analysis)
-- **`skills/iran-analiz-webapp/`** ⭐ — **وب‌اپ محلی «آنالیز بها و گزارش مصالح مصرفی»** (پورت ۳۷۲۶): قالب کلی برآورد اکسل → ورود ضرایب → ۱۰ سند PDF آنالیز تدکار (جدول ۱–۶، الف، ب، پ، خلاصه مالی) + گزارش مصالح + JSON. مسیر پیشنهادی؛ دانش دامنه‌ای کامل (ضرایب بالاسری ۱۴۰۴، ضریب منطقه‌ای، ستاره‌دار، ضریب تناسب، شاخص عوامل ≠ تعدیل، فرمول‌های تاک‌آف مصالح)
+## ۲. آنالیز بها (Price Analysis)
+- **`skills/آنالیز-بها-و-گزارش-مصالح/`** ⭐ — **وب‌اپ محلی «آنالیز بها و گزارش مصالح مصرفی»** (پورت ۳۷۲۶، نام قبلی: iran-analiz-webapp): قالب کلی برآورد اکسل → ورود ضرایب → ۱۰ سند PDF آنالیز تدکار (جدول ۱–۶، الف، ب، پ، خلاصه مالی) + گزارش مصالح + JSON. مسیر پیشنهادی؛ دانش دامنه‌ای کامل (ضرایب بالاسری ۱۴۰۴، ضریب منطقه‌ای، ستاره‌دار، ضریب تناسب، شاخص عوامل ≠ تعدیل، فرمول‌های تاک‌آف مصالح)
 - **`skills/iran-analiz-fehrest-maghadir/`** — آنالیز قیمت از روی برآورد (دفترچه فهرست مقادیر)
 - **`skills/asphalt-metreh/`** — فرم ورود داده + داشبورد مدیریتی + چاپ «ریز متر روز» برای اکسل ریزمتره آسفالت
 
 ## ۳. گزارش مصالح (Material Takeoff)
 - **`skills/iran-masaleh-takeoff/`** — گزارش مصالح مصرفی پروژه (فرمول‌های تبدیل، قواعد خرید پیش‌ساخته، ساختار گزارش ۳ صفحه‌ای)
-- در وب‌اپ `iran-analiz-webapp` همین گزارش **خودکار** کنار ۱۰ سند آنالیز ساخته می‌شود
+- در وب‌اپ `آنالیز-بها-و-گزارش-مصالح` همین گزارش **خودکار** کنار ۱۰ سند آنالیز ساخته می‌شود
 
 ## ۴. صورت وضعیت و صورتجلسه
 - **`skills/iran-soorat-vaziat-tajmi/`** — صورت وضعیت تجمیعی از صورتجلسه + براورد (قاعده ستاره‌دار، تجمیع تجمعی، حمل مصالح، بسته ۵ فایلی)
@@ -51,7 +51,7 @@ Copy-Item -Recurse -Force skills\* $dst\
 ### یا فقط skillهای دلخواه
 ```powershell
 $dst = "$env:USERPROFILE\.agents\skills"
-foreach ($s in "iran-setadiran-tenders","fardis-tender-automation","iran-analiz-webapp","iran-analiz-fehrest-maghadir","asphalt-metreh","iran-masaleh-takeoff","iran-soorat-vaziat-tajmi","iran-tadil-calculator","iran-piman-advisor","iran-tax-contracting","fehrest-baha-1404","fa-pdf","fa-research-pdf","fa-letterhead","baha-abnieh-pwa") {
+foreach ($s in "iran-setadiran-tenders","fardis-tender-automation","آنالیز-بها-و-گزارش-مصالح","iran-analiz-fehrest-maghadir","asphalt-metreh","iran-masaleh-takeoff","iran-soorat-vaziat-tajmi","iran-tadil-calculator","iran-piman-advisor","iran-tax-contracting","fehrest-baha-1404","fa-pdf","fa-research-pdf","fa-letterhead","baha-abnieh-pwa") {
   Copy-Item -Recurse -Force "skills\$s" "$dst\$s"
 }
 ```
@@ -80,4 +80,4 @@ foreach ($s in "iran-setadiran-tenders","fardis-tender-automation","iran-analiz-
 ## تاریخ ساخت
 ۱۴۰۵/۰۶/۱۶ (سپتامبر ۲۰۲۶) — بروزرسانی ۱۴۰۵/۰۶/۱۹: افزودن ۹ skill (تعدیل، صورت وضعیت تجمیعی، امور پیمان، مالیات، سربرگ، تحقیق PDF، PWA فهرست‌بها، ریزمتره آسفالت، اتوماسیون فردیس)
 
-بروزرسانی ۱۴۰۵/۰۷/۰۶: افزودن `skills/iran-analiz-webapp` — وب‌اپ آنالیز بها و گزارش مصالح مصرفی (پورت ۳۷۲۶) با دانش دامنه‌ای کامل.
+بروزرسانی ۱۴۰۵/۰۷/۰۶: افزودن `skills/آنالیز-بها-و-گزارش-مصالح` (نام اولیه: iran-analiz-webapp) — وب‌اپ آنالیز بها و گزارش مصالح مصرفی (پورت ۳۷۲۶) با دانش دامنه‌ای کامل.
