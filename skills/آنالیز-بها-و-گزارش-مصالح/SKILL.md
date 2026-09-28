@@ -23,7 +23,7 @@ C:\Users\behzad\.zcode\workspace\default\analiz-webapp
 
 | وضعیت | مسیر |
 |---|---|
-| فایل **اکسل** یا PDF متن‌دار برآورد داری | ✅ همین وب‌اپ — `GET /api/template` |
+| فایل **اکسل/ورد** یا PDF متن‌دار برآورد داری | ✅ همین وب‌اپ — `GET /api/template` |
 | فقط **PDF اسکن‌شده/تصویری** داری | وب‌اپ با OCR (نیاز به گیت‌وی ۹روتر) **یا** مسیر دستی `iran-analiz-fehrest-maghadir` |
 | فقط محاسبهٔ مصالح می‌خواهی (بدون آنالیز کامل) | فرمول‌های بخش ۶ همین اسکیل، یا `iran-masaleh-takeoff` |
 | فقط نرخ/شرح یک ردیف فهرست‌بها را می‌خواهی | `GET /api/fehrest` + کاتالوگ `data/fehrest/*.json` |
@@ -72,12 +72,12 @@ npm start
 | GET | `/api/template` | — | دانلود «قالب کلی برآورد» اکسل (xlsx، ۴ شیت با کاتالوگ فهرست‌بها) — ~۲۵۰KB |
 | GET | `/api/fehrest` | — | `{ok, catalogues:[{slug,reshteh,sal,label,count,source}]}` |
 | GET | `/api/avamel` | — | `{ok, groups, mabaniCodes, balasariItems}` — کتابخانهٔ عوامل برای فرم نرخ‌ها |
-| POST | `/api/parse` | بدنهٔ **خام فایل** (`application/octet-stream`) | xlsx: `{ok, meta, fasls, rows, rowsCount, sheetName, warnings}` · PDF/عکس: `{ok, jobId, kind:'pdf'}` |
+| POST | `/api/parse` | بدنهٔ **خام فایل** (`application/octet-stream`) | xlsx/docx: `{ok, meta, fasls, rows, rowsCount, sheetName, warnings}` · PDF/عکس: `{ok, jobId, kind:'pdf'}` |
 | POST | `/api/generate` | JSON `{rows, meta, coeffs, params}` | `{ok, jobId}` |
 | GET | `/api/job?id=` | — | `{ok, state:'running'\|'done'\|'error', progress, result, error, elapsed}` |
 | POST | `/api/open` | `{path}` — **فقط داخل `C:\Desktop`** | `{ok}` |
 
-پارس xlsx **همگام** است؛ پارس PDF/عکس **پس‌زمینه‌ای** (job) و چند دقیقه طول می‌کشد.
+پارس xlsx/docx **همگام** است؛ پارس PDF/عکس **پس‌زمینه‌ای** (job) و چند دقیقه طول می‌کشد.
 
 ### ساختار payload تولید
 ```json
@@ -161,6 +161,14 @@ GET /api/template  →  قالب-برآورد-مناقصه.xlsx
 - کد ردیف با صفر ابتدایی (`010307`) باید **متن** باشد نه عدد.
 - نرمال‌سازی ZWNJ در سرستون‌ها انجام می‌شود (مثل «ستاره‌دار») — وگرنه ستون ستاره‌دار پیدا نمی‌شود.
 - ضرایب و مبلغ تجهیز از بلوک بالای سرستون خوانده می‌شوند؛ «مبلغ برآورد هزینه اجرای کار» درج‌شده در فایل با محاسبهٔ خودمان مقایسه و اختلافش نمایش داده می‌شود.
+
+### نکات پارسر ورد (docx)
+- فایل docx با JSZip باز می‌شود و اولین جدول از `word/document.xml` خوانده می‌شود.
+- سرستون ~سطر ۱۵ با ترکیب «شرح + بهای واحد + مقدار» پیدا می‌شود (همان منطق اکسل).
+- **مقدار مرکب:** `(ضریب)×(مقدار)` مثل `(5)×(115)` خودکار حل می‌شود (`parseQtyCell`) → مقدار مؤثر = ۵۷۵.
+- **ستون ستاره‌دار:** اگر ستون سرستون نداشته باشد، با اسکن مقادیر (`ف` = پایه / `*` = ستاره‌دار) و بررسی سرتیتر بلوک («ردیف های ستاره دار») شناسایی می‌شود.
+- **ستون «بهای کل»:** در docx معمولاً جدا از `مقدار × بهای واحد` است و خوانده می‌شود؛ اگر با محاسبهٔ ما فرق داشت، ردیف `flag` می‌خورد.
+- **رشتهٔ سند:** در docx معمولاً سطح سطر نیست (فقط در سربرگ: «ابنیه ۱۴۰۴»)؛ `meta.reshteh` از سربرگ استخراج و به `enrichRows` به‌عنوان `fallbackReshteh` داده می‌شود.
 
 ### ورود داده در قالب — شیت «فرم ورود» + سه راه در جدول
 
@@ -447,6 +455,7 @@ lib/tajziyeh-engine.mjs  موتور تجزیه: جدول ۵ رسمی + آنال�
 lib/analiz-engine.mjs    جدول‌های ۱ تا ۴، الف، ب، پ، خلاصه مالی (جدول ۵/۶ را از tajziyeh می‌گیرد)
 lib/masaleh-engine.mjs   تاک‌آف مصالح (وزن مخصوص، اتلاف، قیر، سیمان، جدول، تخریب)
 lib/parse-xlsx.mjs       پارسر اکسل برآورد (exceljs) + FASL_TITLES + fa2en
+lib/parse-docx.mjs       پارسر ورد (docx) — JSZip + xml2text — مقدار مرکب (ضریب×مقدار) + ستاره‌دار
 lib/parse-pdf.mjs        PDF متن‌دار (pdfjs) یا تصویری (VLM گیت‌وی ۹روتر) + بازبینی ردیف‌ها
 lib/render-pdf.mjs       HTML→PDF با playwright-core (کروم سیستمی) + مرج با pdf-lib
 lib/fa-date.mjs          تاریخ شمسی + تبدیل ارقام فارسی/لاتین
