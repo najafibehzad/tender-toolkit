@@ -1,12 +1,12 @@
 ---
 name: tender-toolkit
-description: بسته کامل ابزارهای پیمانکاری - تدارکات، آنالیز قیمت (وب‌اپ + دستی)، گزارش مصالح، صورت وضعیت، تعدیل، مالیات + مهارت‌های کمکی (فهرست‌بها، PDF فارسی، نقشه اتوکد). Use when setting up a new contractor workspace, onboarding to tender analysis, or needing all skills in one project.
+description: بسته کامل ابزارهای پیمانکاری - تدارکات، آنالیز بها (وب‌اپ + دستی)، گزارش مصالح، صورت وضعیت، تعدیل، مالیات + مهارت‌های کمکی (فهرست‌بها، PDF فارسی، نقشه اتوکد). Use when setting up a new contractor workspace, onboarding to tender analysis, or needing all skills in one project.
 ---
 
 # بسته ابزارهای تدارکات و آنالیز
 
 ## مهارت‌های اصلی
-1. **iran-analiz-webapp** ⭐ — وب‌اپ محلی «آنالیز بها و گزارش مصالح مصرفی» (پورت ۳۷۲۶): قالب اکسل برآورد → ۱۰ سند PDF آنالیز تدکار + گزارش مصالح. **مسیر پیشنهادی و خودکار.**
+1. **آنالیز-بها-و-گزارش-مصالح** ⭐ — وب‌اپ محلی «آنالیز بها و گزارش مصالح مصرفی» (پورت ۳۷۲۶): قالب اکسل برآورد → ۱۰ سند PDF آنالیز تدکار + گزارش مصالح. **مسیر پیشنهادی و خودکار.** (نام قبلی: iran-analiz-webapp)
 2. **iran-analiz-fehrest-maghadir** — آنالیز قیمت از روی برآورد (مسیر دستی، بدون وب‌اپ)
 3. **iran-masaleh-takeoff** — گزارش مصالح مصرفی (فرمول‌ها و ساختار گزارش)
 4. **iran-setadiran-tenders** — استخراج آگهی‌های مناقصه/استعلام/مزایده از ستادیران
